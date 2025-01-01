@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>download.jpg</file>
+        <file>tubeclock.png</file>
+        <file>LCD_Numbers.png</file>
+    </qresource>
+</RCC>
