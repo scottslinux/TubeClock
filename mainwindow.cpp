@@ -176,7 +176,6 @@ void MainWindow::on_horizontalScrollBar_valueChanged(int value)
 //    Toggling the Settings Button
 
 
-//git testing again
 
 void MainWindow::on_SettingsButton_pressed()
 {
