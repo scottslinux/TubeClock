@@ -121,11 +121,11 @@ void MainWindow::paintEvent(QPaintEvent *event)
     mybrush.setColor(flare);
     painter.setBrush(mybrush);
     //flicker the dots
-    painter.drawEllipse(122*globalScale,76*globalScale,5,5);
-    painter.drawEllipse(122*globalScale,91*globalScale,5,5);
+    painter.drawEllipse(122*globalScale,76*globalScale,5,7);
+    painter.drawEllipse(122*globalScale,91*globalScale,5,7);
 
-    painter.drawEllipse(235*globalScale,76*globalScale,5,5);
-    painter.drawEllipse(235*globalScale,91*globalScale,5,5);
+    painter.drawEllipse(235*globalScale,76*globalScale,5,7);
+    painter.drawEllipse(235*globalScale,91*globalScale,5,7);
 
 
 
